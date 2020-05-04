@@ -1,64 +1,68 @@
 {
-	"landing": {
-		"firstName": "Brian",
-		"lastName": "Zhu",
-		"phoneNumber": "440-364-9677",
-		"bio": "I dont do anything",
+  "landing": {
+    "firstName": "Brian",
+    "lastName": "Zhu",
+    "phoneNumber": "440-364-9677",
+    "bio": "I dont do anything",
     "email": "blz222@lehigh.edu",
     "linkedin": "https://linkedin.com/in/brian-zhu-70b4a5174",
-		"github": "https://github.com/zhubiii"
-	},
-	"experience": [
-		{
-			"position": "Engineering Intern",
-			"organization": "Sentro Tech",
-			"aboutWork": "Assisted mechanics with hands-on wiring, assembly, and organization.",
-			"fromDate": "June 2019",
-			"toDate": "August 2019"
-		},
-		{
-				"position": "Tennis Mechanic",
-				"organization": "Lehigh University Tennis",
-				"aboutWork": "Responsible for stringing rackets for both the Men and Women's varsity teams.",
-				"fromDate": "August 2018",
-				"toDate": "Present"
-		},
-		{
-			"position": "Tennis Coach",
-			"organization": "North Ridge Tennis and Golf",
-			"aboutWork": "Coached clinics and assited owner with daily operations.",
-			"fromDate": "August 2017",
-			"toDate": "August 2018"
-		}
-	],
-	"education": [{
-			"university": "Lehigh University",
-			"degree": "Computer Science Engineering and Economics",
-			"majorgpa": "3.8",
-			"cumulativegpa": "3.6",
-			"fromDate": "August 2018",
-			"toDate": "Present"
-		}
-	],
-	"skills": [{
-			"name": "Java"
-		},
-		{
-			"name": "C/C++"
-		}
-	],
-	"interests": {
-		"paragraphOne": "I like jAzZ",
-		"paragraphTwo": "JaaAZZ"
-	},
-	"awards": [{
-			"awardDetail": "most handsome 3rd grader"
-		},
-		{
-			"awardDetail": "School record for most flamin hot cheetoeseatin in a lunch period"
-		},
-		{
-			"awardDetail": "D.A.R.E. no drugs 6th grade award"
-		}
-	]
+    "github": "https://github.com/zhubiii",
+    "gitlab": "https://gitlab.com/zhubiii"
+  },
+  "experience": [
+    {
+      "position": "Engineering Intern",
+      "organization": "Sentro Tech",
+      "aboutWork": "Assisted mechanics with hands-on wiring, assembly, and organization.",
+      "fromDate": "June 2019",
+      "toDate": "August 2019"
+    },
+    {
+      "position": "Tennis Mechanic",
+      "organization": "Lehigh University Tennis",
+      "aboutWork": "Responsible for stringing rackets for both the Men and Women's varsity teams.",
+      "fromDate": "August 2018",
+      "toDate": "Present"
+    },
+    {
+      "position": "Tennis Coach",
+      "organization": "North Ridge Tennis and Golf",
+      "aboutWork": "Coached clinics and assited owner with daily operations.",
+      "fromDate": "August 2017",
+      "toDate": "August 2018"
+    }
+  ],
+  "education": [
+    {
+      "university": "Lehigh University",
+      "degree": "Computer Science Engineering and Economics",
+      "majorgpa": "3.8",
+      "cumulativegpa": "3.6",
+      "fromDate": "August 2018",
+      "toDate": "Present"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "C/C++"
+    }
+  ],
+  "interests": {
+    "paragraphOne": "I like jAzZ",
+    "paragraphTwo": "JaaAZZ"
+  },
+  "awards": [
+    {
+      "awardDetail": "most handsome 3rd grader"
+    },
+    {
+      "awardDetail": "School record for most flamin hot cheetoeseatin in a lunch period"
+    },
+    {
+      "awardDetail": "D.A.R.E. no drugs 6th grade award"
+    }
+  ]
 }
