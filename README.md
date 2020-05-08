@@ -1,6 +1,6 @@
 # Portfolio
 
-Creating my own portfolio website. Learning js and css along the way.
+Creating my own portfolio website. Learning js, css, and html along the way.
 
 # Credit
 

@@ -15,7 +15,7 @@ class Skills extends Component {
       <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
         <div className="w-100">
           <h2 className="mb-5">Skills</h2>
-          <div className="subheading mb-3">Programming Languages &amp; Tools</div>
+          <div className="subheading mb-3">Familiar Programming Languages &amp; Tools</div>
           <div className="row">
           {
             this.skills.map((data, index) => (

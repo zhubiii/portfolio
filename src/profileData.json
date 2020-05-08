@@ -20,14 +20,14 @@
     {
       "position": "Tennis Mechanic",
       "organization": "Lehigh University Tennis",
-      "aboutWork": "Responsible for stringing rackets for both the Men and Women's varsity teams.",
+      "aboutWork": "Responsible for stringing rackets for both the Men's and Women's varsity teams.",
       "fromDate": "August 2018",
       "toDate": "Present"
     },
     {
       "position": "Tennis Coach",
       "organization": "North Ridge Tennis and Golf",
-      "aboutWork": "Coached clinics and assited owner with daily operations.",
+      "aboutWork": "Coached clinics and assisted owner with daily operations.",
       "fromDate": "August 2017",
       "toDate": "August 2018"
     }
@@ -48,6 +48,21 @@
     },
     {
       "name": "C/C++"
+    },
+    {
+      "name": "Javascript"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "Bootstrap"
+    },
+    {
+      "name": "Matlab"
+    },
+    {
+      "name": "Python"
     }
   ],
   "interests": {

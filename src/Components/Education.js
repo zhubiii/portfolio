@@ -101,14 +101,14 @@ class Education extends Component {
             >
               <div className="resume-content">
                 <div className="subheading mb-3">Mathematics</div>
-                <p>Calculas I,II</p>
+                <p>Calculus I,II</p>
                 <p>Statistical Methods I,II</p>
               </div>
               <div className="resume-date text-md-right">
                 <div className="subheading ml-5">
                   In Progress/Soon to be Completed
                 </div>
-                <p>Calculas III</p>
+                <p>Calculus III</p>
                 <p>Linear Algebra</p>
               </div>
             </div>
