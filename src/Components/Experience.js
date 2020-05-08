@@ -21,7 +21,7 @@ class Experience extends Component {
                   <p>{exp.aboutWork}</p>
                 </div>
                 <div className="resume-date text-md-right">
-                  <span className="text-primary">{exp.fromDate} - {exp.toDate}</span>
+                  <span className="text-secondary">{exp.fromDate} - {exp.toDate}</span>
                 </div>
               </div>
             ))
