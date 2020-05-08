@@ -151,6 +151,7 @@ section.resume-section {
   overflow: auto;
   max-height: 100%;
   max-width: 100%;
+  border: 0 !important;
 }
 section.resume-section .resume-item .resume-date {
   min-width: none;
@@ -170,7 +171,7 @@ section.resume-section .resume-item .resume-date {
   }
 }
 .bg-primary {
-  background-color: #44475a !important;
+  background-color: #282a36 !important;
 }
 .text-primary {
   color: #6272a4 !important;
