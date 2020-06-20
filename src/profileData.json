@@ -3,13 +3,27 @@
     "firstName": "Brian",
     "lastName": "Zhu",
     "phoneNumber": "440-364-9677",
-    "bio": "I dont do anything",
+    "bio": "I am a rising junior at Lehigh University pursuing a dual degree in Economics and Computer Science Engineering. Aside from coursework, I keep myself busy by being part of many campus organizations. These include being president of Club Tennis, working for the athletic department, and being a teaching assistant for a systems software class. I am always seeking to expand my skillset and face challenges head on. For work within a team or work done alone, I am extremely motivated and persistent to solve the task at hand.  ",
     "email": "blz222@lehigh.edu",
     "linkedin": "https://linkedin.com/in/brian-zhu-70b4a5174",
     "github": "https://github.com/zhubiii",
     "gitlab": "https://gitlab.com/zhubiii"
   },
   "experience": [
+    {
+      "position": "Database and Website Developer",
+      "organization": "Indendent Client: Dr. Ann Morgan",
+      "aboutWork": "Building a searchable database of photos that will be used as an academic teaching aid, integrating the databases with an online website. Working with client to discuss goals, improvements, and additions to the project.",
+      "fromDate": "June 2020",
+      "toDate": "Present"
+    },
+    {
+      "position": "Research Assistant",
+      "organization": "Lehigh University: Computer Science and Engineering department",
+      "aboutWork": "Working within a team led by a professor to implement MECH as a robotics outreach program for primary school children.",
+      "fromDate": "June 2020",
+      "toDate": "Present"
+    },
     {
       "position": "Engineering Intern",
       "organization": "Sentro Tech",
@@ -53,21 +67,18 @@
       "name": "Javascript"
     },
     {
-      "name": "HTML"
+      "name": "Vim"
     },
     {
-      "name": "Bootstrap"
+      "name": "Unix"
     },
     {
-      "name": "Matlab"
-    },
-    {
-      "name": "Python"
+      "name": "Git"
     }
   ],
   "interests": {
-    "paragraphOne": "I like jAzZ",
-    "paragraphTwo": "JaaAZZ"
+    "paragraphOne": "When I'm not studying or hanging out with friends, I involve myself mostly with music and sports. I love to play and follow tennis.  and am always looking for an oppurtunity to get outdoors.  spending hours transcribing and learning various jazz songs on different instruments. To relax, I also enjoy watching movies, playing video games, and learning to cook.",
+    "paragraphTwo": " "
   },
   "awards": [
     {

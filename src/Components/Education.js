@@ -64,12 +64,11 @@ class Education extends Component {
                   In Progress/Soon to be Completed
                 </div>
                 <p>Computer Organization and Architecture (C/C++)</p>
+                <p>Engineering Experience</p>
                 <p>Foundations of Robotics</p>
                 <p>Software Engineering</p>
                 <p>Programming Languages</p>
                 <p>Operating System Design</p>
-                <p>Fundamentals of Machine Learning</p>
-                <p>Biomedical Image Computing and Modeling</p>
               </div>
             </div>
           ))}

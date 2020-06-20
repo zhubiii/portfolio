@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import image from "../Assets/profile.jpg";
+import image from "../Assets/Fish2.jpg";
 
 class Sidebar extends Component {
   constructor(props) {
@@ -66,7 +66,7 @@ class Sidebar extends Component {
             </li>
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#awards">
-                Awards
+                Projects
               </a>
             </li>
           </ul>
